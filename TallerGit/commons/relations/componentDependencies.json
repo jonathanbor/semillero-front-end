@@ -2,12 +2,17 @@
 	"CompositeForms": {
 	},
 	"Entities": {
+<<<<<<< HEAD
 		"EN_ESTUDIASS_343": {
+=======
+		"EN_ESTDUIASH_488": {
+>>>>>>> d3053c404449fbd1c32fd7ad19f486a1b42332e2
 			"labels": [
 			]
 		}
 	},
 	"Forms": {
+<<<<<<< HEAD
 		"T_GRPOARJPMKISZ_208": {
 			"blis": [
 			],
@@ -17,6 +22,17 @@
 					"AT49_EDADDIJL343",
 					"AT54_NOMBREVK343",
 					"AT68_APELLIOO343"
+=======
+		"T_GRPOAZOZVFHCZ_569": {
+			"blis": [
+			],
+			"entities": {
+				"EN_ESTDUIASH_488": [
+					"AT25_APELLIOD488",
+					"AT64_SEXORGMZ488",
+					"AT88_NOMBREJX488",
+					"AT97_EDADTINR488"
+>>>>>>> d3053c404449fbd1c32fd7ad19f486a1b42332e2
 				]
 			},
 			"externalEntities": {
@@ -26,11 +42,19 @@
 			"header": [
 			],
 			"labels": [
+<<<<<<< HEAD
 				"LBL_GRPOA_APELLIDOO_99707",
 				"LBL_GRPOA_EDADFMZFN_17823",
 				"LBL_GRPOA_GUARDARXA_46947",
 				"LBL_GRPOA_NOMBREXDC_63447",
 				"LBL_GRPOA_SEXOVAZFY_87972"
+=======
+				"LBL_GRPOA_APELLIDOO_89806",
+				"LBL_GRPOA_EDADSFEWK_38232",
+				"LBL_GRPOA_GUARDARLS_51419",
+				"LBL_GRPOA_NOMBRETJW_72018",
+				"LBL_GRPOA_SEXOWRALY_17908"
+>>>>>>> d3053c404449fbd1c32fd7ad19f486a1b42332e2
 			],
 			"queries": {
 			},
