@@ -1,0 +1,19 @@
+{
+	"culture": "culture",
+	"metadataVersion": "7.2.0.2024 BETA",
+	"moduleId": "GRPOA",
+	"modules": [
+		{
+			"moduleId": "GRPOA",
+			"moduleName": "GrupoA",
+			"subModules": [
+				{
+					"subModuleId": "FRMLR",
+					"subModuleName": "Formularios"
+				}
+			]
+		}
+	],
+	"projectName": "TallerGit",
+	"subModuleId": "FRMLR"
+}
