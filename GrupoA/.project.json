@@ -1,0 +1,19 @@
+{
+	"culture": "culture",
+	"metadataVersion": "7.2.0.2024 BETA",
+	"moduleId": "GRAWC",
+	"modules": [
+		{
+			"moduleId": "GRAWC",
+			"moduleName": "GRA",
+			"subModules": [
+				{
+					"subModuleId": "ESTDN",
+					"subModuleName": "Estudiante"
+				}
+			]
+		}
+	],
+	"projectName": "GrupoA",
+	"subModuleId": "ESTDN"
+}
