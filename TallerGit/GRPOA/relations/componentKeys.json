@@ -1,0 +1,23 @@
+{
+	"Entities": {
+		"EN_1CUXWDUZM_392": {
+			"name": "Entity1"
+		},
+		"EN_ESTUDIASS_343": {
+			"name": "Estudiantes"
+		}
+	},
+	"FRMLR": {
+		"CompositeForms": {
+		},
+		"Forms": {
+			"T_GRPOARJPMKISZ_208": {
+				"name": "EstudianteRszrForm"
+			}
+		},
+		"Queries": {
+		},
+		"SubForms": {
+		}
+	}
+}

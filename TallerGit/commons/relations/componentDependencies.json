@@ -1,6 +1,43 @@
 {
-	"Entities": {},
-	"Forms": {},
-	"CompositeForms": {},
-	"Queries": {}
+	"CompositeForms": {
+	},
+	"Entities": {
+		"EN_ESTUDIASS_343": {
+			"labels": [
+			]
+		}
+	},
+	"Forms": {
+		"T_GRPOARJPMKISZ_208": {
+			"blis": [
+			],
+			"entities": {
+				"EN_ESTUDIASS_343": [
+					"AT22_SEXOVAOU343",
+					"AT49_EDADDIJL343",
+					"AT54_NOMBREVK343",
+					"AT68_APELLIOO343"
+				]
+			},
+			"externalEntities": {
+			},
+			"externalQueries": {
+			},
+			"header": [
+			],
+			"labels": [
+				"LBL_GRPOA_APELLIDOO_99707",
+				"LBL_GRPOA_EDADFMZFN_17823",
+				"LBL_GRPOA_GUARDARXA_46947",
+				"LBL_GRPOA_NOMBREXDC_63447",
+				"LBL_GRPOA_SEXOVAZFY_87972"
+			],
+			"queries": {
+			},
+			"subForms": [
+			]
+		}
+	},
+	"Queries": {
+	}
 }
