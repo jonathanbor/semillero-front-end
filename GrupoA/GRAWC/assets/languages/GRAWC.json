@@ -1,10 +1,13 @@
 {
-    "GRAWC": {
-        "LBL": {
-
-        },
-        "MSG": {
-
-        }
-    }
+	"GRAWC": {
+		"LBL": {
+			"LBL_GRAWC_APELLIDOO_92487": "Apellido",
+			"LBL_GRAWC_EDADKUWOK_88914": "Edad",
+			"LBL_GRAWC_GUARDARDM_13874": "Guardar",
+			"LBL_GRAWC_NOMBREQUL_64185": "Nombre",
+			"LBL_GRAWC_SEXOKXUBA_75960": "Sexo"
+		},
+		"MSG": {
+		}
+	}
 }

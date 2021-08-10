@@ -3,5 +3,18 @@
 		"EN_ESTUDIAET_559": {
 			"name": "Estudiante"
 		}
+	},
+	"ESTDN": {
+		"CompositeForms": {
+		},
+		"Forms": {
+			"T_GRAWCEEFZHEXI_769": {
+				"name": "EstudianteRszrForm"
+			}
+		},
+		"Queries": {
+		},
+		"SubForms": {
+		}
 	}
 }
