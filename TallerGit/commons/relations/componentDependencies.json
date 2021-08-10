@@ -1,6 +1,43 @@
 {
-	"Entities": {},
-	"Forms": {},
-	"CompositeForms": {},
-	"Queries": {}
+	"CompositeForms": {
+	},
+	"Entities": {
+		"EN_ESTDUIASH_488": {
+			"labels": [
+			]
+		}
+	},
+	"Forms": {
+		"T_GRPOAZOZVFHCZ_569": {
+			"blis": [
+			],
+			"entities": {
+				"EN_ESTDUIASH_488": [
+					"AT25_APELLIOD488",
+					"AT64_SEXORGMZ488",
+					"AT88_NOMBREJX488",
+					"AT97_EDADTINR488"
+				]
+			},
+			"externalEntities": {
+			},
+			"externalQueries": {
+			},
+			"header": [
+			],
+			"labels": [
+				"LBL_GRPOA_APELLIDOO_89806",
+				"LBL_GRPOA_EDADSFEWK_38232",
+				"LBL_GRPOA_GUARDARLS_51419",
+				"LBL_GRPOA_NOMBRETJW_72018",
+				"LBL_GRPOA_SEXOWRALY_17908"
+			],
+			"queries": {
+			},
+			"subForms": [
+			]
+		}
+	},
+	"Queries": {
+	}
 }

@@ -1,10 +1,13 @@
 {
-    "GRPOA": {
-        "LBL": {
-
-        },
-        "MSG": {
-
-        }
-    }
+	"GRPOA": {
+		"LBL": {
+			"LBL_GRPOA_APELLIDOO_89806": "Apellido",
+			"LBL_GRPOA_EDADSFEWK_38232": "Edad",
+			"LBL_GRPOA_GUARDARLS_51419": "Guardar",
+			"LBL_GRPOA_NOMBRETJW_72018": "Nombre",
+			"LBL_GRPOA_SEXOWRALY_17908": "Sexo"
+		},
+		"MSG": {
+		}
+	}
 }
