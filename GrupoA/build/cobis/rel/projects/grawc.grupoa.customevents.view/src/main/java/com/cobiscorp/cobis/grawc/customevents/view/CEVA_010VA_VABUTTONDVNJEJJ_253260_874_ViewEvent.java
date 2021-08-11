@@ -1,6 +1,6 @@
 /*
  * Archivo: VW_ESTUDIANTE_260_ViewEvent.java
- * Fecha: 11/08/2021 12:25:52
+ * Fecha: 11/08/2021 13:06:29
  *
  * Esta aplicacion es parte de los paquetes bancarios propiedad de COBISCORP.
  * Su uso no autorizado queda expresamente prohibido asi como cualquier

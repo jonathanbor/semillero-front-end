@@ -1,6 +1,6 @@
 /*
  * Archivo: VW_ESTUDIANEE_284_ViewEvent.java
- * Fecha: 11/08/2021 12:24:29
+ * Fecha: 11/08/2021 13:05:25
  *
  * Esta aplicacion es parte de los paquetes bancarios propiedad de COBISCORP.
  * Su uso no autorizado queda expresamente prohibido asi como cualquier

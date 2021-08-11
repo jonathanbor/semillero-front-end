@@ -1,6 +1,6 @@
 /*
  * Archivo: T_GRAWCJFYKXDTH_245.java
- * Fecha: 2021-08-11T17:24:28Z
+ * Fecha: 2021-08-11T18:05:24Z
  *
  * Esta aplicacion es parte de los paquetes bancarios propiedad de COBISCORP.
  * Su uso no autorizado queda expresamente prohibido asi como cualquier
