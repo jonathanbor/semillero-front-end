@@ -6,7 +6,7 @@
 task.executeCommand.VA_VABUTTONTYMSTWE_972284 = function(  entities, executeCommandEventArgs ) {
 
     executeCommandEventArgs.commons.execServer = true;
-    console.log(entities.Persona.nombre+" "+entities.Persona.apellido);
+    console.log(entities.Estudiante.nombre+" "+entities.Estudiante.apellido);
     //executeCommandEventArgs.commons.serverParameters.Estudiante = true;
 
 };
