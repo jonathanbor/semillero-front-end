@@ -1,0 +1,9 @@
+Bundle-SymbolicName: ${project.groupId}-${project.artifactId}-${project.version}
+Bundle-Name: ${project.groupId}-${project.artifactId}
+Bundle-Vendor: COBISCORP
+Bundle-ManifestVersion: 2
+Service-Component: OSGI-INF/serviceComponents.xml
+Excluded-Exports: com.cobiscorp.cobis.*.impl
+TFS-ChangeSet: dc7eaa11d303eeb2394615f0a68fe7a550934630
+TFS-BuildDate: 2020-11-20 11:37:21
+TFS-RepositoryName: https://tfs.cobiscorp.com/tfs/DefaultCollection/COB/_git/DSG branch:refs/heads/dsg_Liberaion7.2Master23

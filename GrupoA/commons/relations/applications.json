@@ -7,40 +7,50 @@
 				{
 					"generated": 0,
 					"moduleId": "GRAWC",
+					"moduleName": "GRA",
 					"name": "EstudianteKouForm",
 					"subModuleId": "ESTDN",
+					"subModuleName": "Estudiante",
 					"taskId": "T_GRAWCBMIGGNYY_599",
 					"type": "Simple form"
 				},
 				{
 					"generated": 0,
 					"moduleId": "GRAWC",
+					"moduleName": "GRA",
 					"name": "EstudianteRszrForm",
 					"subModuleId": "ESTDN",
+					"subModuleName": "Estudiante",
 					"taskId": "T_GRAWCJFYKXDTH_245",
 					"type": "Simple form"
 				},
 				{
 					"generated": 0,
 					"moduleId": "GRAWC",
+					"moduleName": "GRA",
 					"name": "EstudianteJabs",
 					"subModuleId": "ESTDN",
+					"subModuleName": "Estudiante",
 					"taskId": "T_GRAWCNLNGQCIX_617",
 					"type": "Simple form"
 				},
 				{
 					"generated": 0,
 					"moduleId": "GRAWC",
+					"moduleName": "GRA",
 					"name": "EstudianteJibyForm",
 					"subModuleId": "ESTDN",
+					"subModuleName": "Estudiante",
 					"taskId": "T_GRAWCXHEJXDEQ_234",
 					"type": "Simple form"
 				},
 				{
 					"generated": 0,
 					"moduleId": "GRAWC",
+					"moduleName": "GRA",
 					"name": "EstudianteJshForm",
 					"subModuleId": "ESTDN",
+					"subModuleName": "Estudiante",
 					"taskId": "T_GRAWCZDPCAYTF_810",
 					"type": "Simple form"
 				}

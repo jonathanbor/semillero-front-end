@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?><components xmlns:scr="http://www.osgi.org/xmlns/scr/v1.1.0">
+    <scr:component enabled="true" name="com.cobiscorp.cobis.grawc.customevents.impl.view.executecommand.VA_VABUTTONTYMSTWE_972284">
+        <implementation class="com.cobiscorp.cobis.grawc.customevents.impl.view.executecommand.VA_VABUTTONTYMSTWE_972284"/>
+        <service servicefactory="false">
+            <provide interface="com.cobiscorp.designer.api.customization.IExecuteCommand"/>
+        </service>
+        <property name="view.id" type="String" value="VW_ESTUDIANEE_284"/>
+        <property name="view.version" type="String" value="1.0.0"/>
+        <property name="view.controlId" type="String" value="VA_VABUTTONTYMSTWE_972284"/>
+        <property name="service.pid" value="com.cobiscorp.cobis.grawc.customevents.impl.view.executecommand.VA_VABUTTONTYMSTWE_972284"/>
+    </scr:component>
+</components>
