@@ -8,6 +8,36 @@
 		}
 	},
 	"Forms": {
+		"T_GRAWCKMAULWOQ_643": {
+            "blis": [
+			],
+			"entities": {
+				"EN_ESTUDIAET_559": [
+					"AT41_SEXOQDCX559",
+					"AT90_APELLIDD559",
+					"AT92_EDADYCEB559",
+					"AT97_NOMBREZA559"
+				]
+			},
+			"externalEntities": {
+			},
+			"externalQueries": {
+			},
+			"header": [
+			],
+			"labels": [
+				"LBL_GRAWC_APELLIDOO_48891",
+				"LBL_GRAWC_EDADHIAOD_25256",
+				"LBL_GRAWC_GUARDARJV_15251",
+				"LBL_GRAWC_KEVINULOQ_93148",
+				"LBL_GRAWC_NOMBREKAY_14282",
+				"LBL_GRAWC_SEXOFBXOC_75207"
+        ],
+			"queries": {
+			},
+			"subForms": [
+			]
+		},
 		"T_GRAWCNLNGQCIX_617": {
 			"blis": [
 			],
