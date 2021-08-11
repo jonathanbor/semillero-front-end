@@ -2,9 +2,14 @@
 	"GRAWC": {
 		"LBL": {
 			"LBL_GRAWC_APELLIDOO_24386": "Apellido",
+			"LBL_GRAWC_APELLIDOO_47709": "apellido",
+			"LBL_GRAWC_EDADQJLLT_85375": "edad",
 			"LBL_GRAWC_EDADWNNNO_46353": "Edad",
 			"LBL_GRAWC_GUARDARGP_28482": "Guardar",
+			"LBL_GRAWC_GUARDARTD_86009": "guardar",
+			"LBL_GRAWC_NOMBREBRQ_98945": "nombre",
 			"LBL_GRAWC_NOMBRERIG_51372": "Nombre",
+			"LBL_GRAWC_SEXODFALD_75011": "sexo",
 			"LBL_GRAWC_SEXOMDMRO_54262": "Sexo"
 		},
 		"MSG": {
