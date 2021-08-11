@@ -9,7 +9,7 @@
 	},
 	"Forms": {
 		"T_GRAWCKMAULWOQ_643": {
-            "blis": [
+			"blis": [
 			],
 			"entities": {
 				"EN_ESTUDIAET_559": [
@@ -32,7 +32,7 @@
 				"LBL_GRAWC_KEVINULOQ_93148",
 				"LBL_GRAWC_NOMBREKAY_14282",
 				"LBL_GRAWC_SEXOFBXOC_75207"
-        ],
+			],
 			"queries": {
 			},
 			"subForms": [
