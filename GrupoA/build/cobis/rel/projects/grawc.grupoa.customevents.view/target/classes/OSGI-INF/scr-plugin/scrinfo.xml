@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><components xmlns:scr="http://www.osgi.org/xmlns/scr/v1.1.0">
+    <scr:component enabled="true" name="com.cobiscorp.cobis.grawc.customevents.view.CEVA_010VA_VABUTTONDVNJEJJ_253260_874_ViewEvent">
+        <implementation class="com.cobiscorp.cobis.grawc.customevents.view.CEVA_010VA_VABUTTONDVNJEJJ_253260_874_ViewEvent"/>
+        <service servicefactory="false">
+            <provide interface="com.cobiscorp.designer.api.builder.ViewEventBuilder"/>
+        </service>
+        <property name="view.id" type="String" value="VW_ESTUDIANTE_260" private="false"/>
+        <property name="view.version" type="String" value="1.0.0" private="false"/>
+        <property name="service.pid" value="com.cobiscorp.cobis.grawc.customevents.view.CEVA_010VA_VABUTTONDVNJEJJ_253260_874_ViewEvent" private="false"/>
+        <reference name="iExecuteCommandVA_VABUTTONDVNJEJJ_253260" interface="com.cobiscorp.designer.api.customization.IExecuteCommand" cardinality="1..1" policy="dynamic" target="(&amp;(view.id=VW_ESTUDIANTE_260)(view.version=1.0.0)(view.controlId=VA_VABUTTONDVNJEJJ_253260))" bind="setiExecuteCommandVA_VABUTTONDVNJEJJ_253260" unbind="unsetiExecuteCommandVA_VABUTTONDVNJEJJ_253260" checked="true" strategy="event"/>
+    </scr:component>
+    <scr:component enabled="true" name="com.cobiscorp.cobis.grawc.customevents.view.CEVA_010VA_VABUTTONIFJFDYM_370999_378_ViewEvent">
+        <implementation class="com.cobiscorp.cobis.grawc.customevents.view.CEVA_010VA_VABUTTONIFJFDYM_370999_378_ViewEvent"/>
+        <service servicefactory="false">
+            <provide interface="com.cobiscorp.designer.api.builder.ViewEventBuilder"/>
+        </service>
+        <property name="view.id" type="String" value="VW_ESTUDIANSE_999" private="false"/>
+        <property name="view.version" type="String" value="1.0.0" private="false"/>
+        <property name="service.pid" value="com.cobiscorp.cobis.grawc.customevents.view.CEVA_010VA_VABUTTONIFJFDYM_370999_378_ViewEvent" private="false"/>
+        <reference name="iExecuteCommandVA_VABUTTONIFJFDYM_370999" interface="com.cobiscorp.designer.api.customization.IExecuteCommand" cardinality="1..1" policy="dynamic" target="(&amp;(view.id=VW_ESTUDIANSE_999)(view.version=1.0.0)(view.controlId=VA_VABUTTONIFJFDYM_370999))" bind="setiExecuteCommandVA_VABUTTONIFJFDYM_370999" unbind="unsetiExecuteCommandVA_VABUTTONIFJFDYM_370999" checked="true" strategy="event"/>
+    </scr:component>
+    <scr:component enabled="true" name="com.cobiscorp.cobis.grawc.customevents.view.CEVA_010VA_VABUTTONLONFUEM_811831_289_ViewEvent">
+        <implementation class="com.cobiscorp.cobis.grawc.customevents.view.CEVA_010VA_VABUTTONLONFUEM_811831_289_ViewEvent"/>
+        <service servicefactory="false">
+            <provide interface="com.cobiscorp.designer.api.builder.ViewEventBuilder"/>
+        </service>
+        <property name="view.id" type="String" value="VW_ESTUDIANSJ_831" private="false"/>
+        <property name="view.version" type="String" value="1.0.0" private="false"/>
+        <property name="service.pid" value="com.cobiscorp.cobis.grawc.customevents.view.CEVA_010VA_VABUTTONLONFUEM_811831_289_ViewEvent" private="false"/>
+        <reference name="iExecuteCommandVA_VABUTTONLONFUEM_811831" interface="com.cobiscorp.designer.api.customization.IExecuteCommand" cardinality="1..1" policy="dynamic" target="(&amp;(view.id=VW_ESTUDIANSJ_831)(view.version=1.0.0)(view.controlId=VA_VABUTTONLONFUEM_811831))" bind="setiExecuteCommandVA_VABUTTONLONFUEM_811831" unbind="unsetiExecuteCommandVA_VABUTTONLONFUEM_811831" checked="true" strategy="event"/>
+    </scr:component>
+    <scr:component enabled="true" name="com.cobiscorp.cobis.grawc.customevents.view.CEVA_010VA_VABUTTONRPUIHIV_536241_851_ViewEvent">
+        <implementation class="com.cobiscorp.cobis.grawc.customevents.view.CEVA_010VA_VABUTTONRPUIHIV_536241_851_ViewEvent"/>
+        <service servicefactory="false">
+            <provide interface="com.cobiscorp.designer.api.builder.ViewEventBuilder"/>
+        </service>
+        <property name="view.id" type="String" value="VW_ESTUDIANBB_241" private="false"/>
+        <property name="view.version" type="String" value="1.0.0" private="false"/>
+        <property name="service.pid" value="com.cobiscorp.cobis.grawc.customevents.view.CEVA_010VA_VABUTTONRPUIHIV_536241_851_ViewEvent" private="false"/>
+        <reference name="iExecuteCommandVA_VABUTTONRPUIHIV_536241" interface="com.cobiscorp.designer.api.customization.IExecuteCommand" cardinality="1..1" policy="dynamic" target="(&amp;(view.id=VW_ESTUDIANBB_241)(view.version=1.0.0)(view.controlId=VA_VABUTTONRPUIHIV_536241))" bind="setiExecuteCommandVA_VABUTTONRPUIHIV_536241" unbind="unsetiExecuteCommandVA_VABUTTONRPUIHIV_536241" checked="true" strategy="event"/>
+    </scr:component>
+    <scr:component enabled="true" name="com.cobiscorp.cobis.grawc.customevents.view.CEVA_010VA_VABUTTONTYMSTWE_972284_250_ViewEvent">
+        <implementation class="com.cobiscorp.cobis.grawc.customevents.view.CEVA_010VA_VABUTTONTYMSTWE_972284_250_ViewEvent"/>
+        <service servicefactory="false">
+            <provide interface="com.cobiscorp.designer.api.builder.ViewEventBuilder"/>
+        </service>
+        <property name="view.id" type="String" value="VW_ESTUDIANEE_284" private="false"/>
+        <property name="view.version" type="String" value="1.0.0" private="false"/>
+        <property name="service.pid" value="com.cobiscorp.cobis.grawc.customevents.view.CEVA_010VA_VABUTTONTYMSTWE_972284_250_ViewEvent" private="false"/>
+        <reference name="iExecuteCommandVA_VABUTTONTYMSTWE_972284" interface="com.cobiscorp.designer.api.customization.IExecuteCommand" cardinality="1..1" policy="dynamic" target="(&amp;(view.id=VW_ESTUDIANEE_284)(view.version=1.0.0)(view.controlId=VA_VABUTTONTYMSTWE_972284))" bind="setiExecuteCommandVA_VABUTTONTYMSTWE_972284" unbind="unsetiExecuteCommandVA_VABUTTONTYMSTWE_972284" checked="true" strategy="event"/>
+    </scr:component>
+</components>
