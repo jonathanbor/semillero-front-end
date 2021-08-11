@@ -1,2 +1,64 @@
 {
+	"APP_EJERCICIOSS_202": {
+		"externalModules": {
+		},
+		"forms": {
+			"GRAWC": [
+				{
+					"generated": 0,
+					"moduleId": "GRAWC",
+					"name": "EstudianteKouForm",
+					"subModuleId": "ESTDN",
+					"taskId": "T_GRAWCBMIGGNYY_599",
+					"type": "Simple form"
+				},
+				{
+					"generated": 0,
+					"moduleId": "GRAWC",
+					"name": "EstudianteRszrForm",
+					"subModuleId": "ESTDN",
+					"taskId": "T_GRAWCJFYKXDTH_245",
+					"type": "Simple form"
+				},
+				{
+					"generated": 0,
+					"moduleId": "GRAWC",
+					"name": "EstudianteJabs",
+					"subModuleId": "ESTDN",
+					"taskId": "T_GRAWCNLNGQCIX_617",
+					"type": "Simple form"
+				},
+				{
+					"generated": 0,
+					"moduleId": "GRAWC",
+					"name": "EstudianteJibyForm",
+					"subModuleId": "ESTDN",
+					"taskId": "T_GRAWCXHEJXDEQ_234",
+					"type": "Simple form"
+				},
+				{
+					"generated": 0,
+					"moduleId": "GRAWC",
+					"name": "EstudianteJshForm",
+					"subModuleId": "ESTDN",
+					"taskId": "T_GRAWCZDPCAYTF_810",
+					"type": "Simple form"
+				}
+			]
+		},
+		"generate": {
+			"categoryName": "Cobiscorp",
+			"customEventImpl": "Custom",
+			"customEventImplPath": "{projectPath}\\build",
+			"displayName": "EjercicioFormularios",
+			"mode": "Development",
+			"type": "HTML5"
+		},
+		"id": "APP_EJERCICIOSS_202",
+		"mainPortletTaskId": "T_GRAWCBMIGGNYY_599",
+		"modules": [
+			"GRAWC"
+		],
+		"name": "EjercicioFormularios"
+	}
 }
