@@ -1,0 +1,16 @@
+[
+	{
+		"attributeName": "",
+		"controlId": "VA_VABUTTONLONFUEM_811831",
+		"controlName": "VA_VABUTTONLONFUEM_811831",
+		"controlType": "Button",
+		"customEvents": [
+			{
+				"eventName": "executeCommand",
+				"executionType": 3
+			}
+		],
+		"entityName": "Estudiante",
+		"eventsType": "visualAttributeEventType"
+	}
+]

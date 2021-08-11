@@ -1,0 +1,12 @@
+{
+	"entities": [
+		{
+			"entityId": "EN_ESTUDIAET_559",
+			"isContextEntity": null,
+			"moduleId": "GRAWC",
+			"related": false
+		}
+	],
+	"queries": [
+	]
+}
