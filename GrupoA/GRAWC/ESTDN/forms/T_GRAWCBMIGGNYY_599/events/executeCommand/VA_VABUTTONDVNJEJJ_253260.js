@@ -7,5 +7,11 @@ task.executeCommand.VA_VABUTTONDVNJEJJ_253260 = function(  entities, executeComm
 
     executeCommandEventArgs.commons.execServer = true;
     //executeCommandEventArgs.commons.serverParameters.Estudiante = true;
-
+    const estudiante =  entities.Estudiante;
+    const nombre = estudiante.nombre;
+    const apellido = estudiante.apellido;
+    const sexo = estudiante.sexo;
+    const edad = estudiante.edad;
+    
+    console.log(nombre + " " + apellido + " " + sexo + " " + edad);
 };
