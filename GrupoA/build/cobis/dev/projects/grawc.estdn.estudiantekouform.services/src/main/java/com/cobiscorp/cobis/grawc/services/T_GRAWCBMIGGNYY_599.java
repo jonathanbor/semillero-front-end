@@ -1,6 +1,6 @@
 /*
  * Archivo: T_GRAWCBMIGGNYY_599.java
- * Fecha: 2021-08-11T15:21:06Z
+ * Fecha: 2021-08-11T15:29:13Z
  *
  * Esta aplicacion es parte de los paquetes bancarios propiedad de COBISCORP.
  * Su uso no autorizado queda expresamente prohibido asi como cualquier
