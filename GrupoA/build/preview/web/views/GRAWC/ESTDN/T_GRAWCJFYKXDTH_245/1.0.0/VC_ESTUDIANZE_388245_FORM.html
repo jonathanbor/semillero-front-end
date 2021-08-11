@@ -1,0 +1,73 @@
+<!-- Designer Generator v 7.2.0 - SPR 2020-24 4/12/2020 -->
+<html>
+ <head></head>
+ <body>
+  <div id="bc_VC_ESTUDIANZE_388245" class="cb-breadcrumb" ng-if="!vc.isModal(this) && !vc.isDetailGrid(this) && !isDesignerInclude" ng-class="vc.viewState.VC_ESTUDIANZE_388245.style"> 
+   <ol class="breadcrumb"> 
+    <li>Inicio</li> 
+    <li ng-repeat="breadcrumb in breadcrumbs.get() track by breadcrumb.path" ng-class="{ active: !$last }"> {{ breadcrumb.label | translate }} </li> 
+   </ol> 
+  </div> 
+  <!-- Inicio item VW_ESTUDIANEE_284--> 
+  <div id="VC_ESTUDIANZE_388245" ng-keydown="vc.viewState.keyDown($event)" class=" cb-view-container-root cb-view-container cb-group-layout" ng-class="{'container':!vc.isModal(this) && !vc.isDetailGrid(this) && !isDesignerInclude && true, 'container-fluid':vc.isModal(this) || isDesignerInclude || false, 'cb-invisible': !vc.loaded}"> 
+   <div id="G_ESTUDIATNS_700284" ng-show="vc.viewState.G_ESTUDIATNS_700284.visible" ng-class="vc.viewState.G_ESTUDIATNS_700284.style" class="cb-group cb-group-simple"> 
+    <div kendo-validator="G_ESTUDIATNS_700284" k-options="validatorOptions" id="G_ESTUDIATNS_700284_VAL"> 
+     <div class="form-vertical"> 
+      <div class="row"> 
+       <div class="col-xs-4" ng-show="vc.viewState.VA_NOMBRETFNIYGRCQ_782284.visible"> 
+        <div class="form-group" id="VA_NOMBRETFNIYGRCQ_782284_DIV"> 
+         <label for="VA_NOMBRETFNIYGRCQ_782284" title="{{vc.viewState.VA_NOMBRETFNIYGRCQ_782284.label|translate:vc.viewState.VA_NOMBRETFNIYGRCQ_782284.labelArgs}}" ng-show="vc.viewState.VA_NOMBRETFNIYGRCQ_782284.visible" class="control-label">{{vc.viewState.VA_NOMBRETFNIYGRCQ_782284.label|translate:vc.viewState.VA_NOMBRETFNIYGRCQ_782284.labelArgs}}</label> 
+         <div class="cb-control"> 
+          <input id="VA_NOMBRETFNIYGRCQ_782284" name="Estudiante_nombre" type="text" class="form-control" ng-model="vc.model.Estudiante.nombre" ng-disabled="vc.viewState.VA_NOMBRETFNIYGRCQ_782284.disabled || vc.viewState.VA_NOMBRETFNIYGRCQ_782284.disabledingroup" ng-show="vc.viewState.VA_NOMBRETFNIYGRCQ_782284.visible" ng-readonly="vc.viewState.VA_NOMBRETFNIYGRCQ_782284.readonly" ng-class="vc.viewState.VA_NOMBRETFNIYGRCQ_782284.style" data-cobis-group="Group,G_ESTUDIATNS_700284,0" ng-model-onblur data-validation-code="{{vc.viewState.VA_NOMBRETFNIYGRCQ_782284.validationCode}}" /> 
+         </div> 
+        </div> 
+       </div> 
+       <div class="col-xs-4" ng-show="vc.viewState.VA_APELLIDOAIYMYRP_679284.visible"> 
+        <div class="form-group" id="VA_APELLIDOAIYMYRP_679284_DIV"> 
+         <label for="VA_APELLIDOAIYMYRP_679284" title="{{vc.viewState.VA_APELLIDOAIYMYRP_679284.label|translate:vc.viewState.VA_APELLIDOAIYMYRP_679284.labelArgs}}" ng-show="vc.viewState.VA_APELLIDOAIYMYRP_679284.visible" class="control-label">{{vc.viewState.VA_APELLIDOAIYMYRP_679284.label|translate:vc.viewState.VA_APELLIDOAIYMYRP_679284.labelArgs}}</label> 
+         <div class="cb-control"> 
+          <input id="VA_APELLIDOAIYMYRP_679284" name="Estudiante_apellido" type="text" class="form-control" ng-model="vc.model.Estudiante.apellido" ng-disabled="vc.viewState.VA_APELLIDOAIYMYRP_679284.disabled || vc.viewState.VA_APELLIDOAIYMYRP_679284.disabledingroup" ng-show="vc.viewState.VA_APELLIDOAIYMYRP_679284.visible" ng-readonly="vc.viewState.VA_APELLIDOAIYMYRP_679284.readonly" ng-class="vc.viewState.VA_APELLIDOAIYMYRP_679284.style" data-cobis-group="Group,G_ESTUDIATNS_700284,0" ng-model-onblur data-validation-code="{{vc.viewState.VA_APELLIDOAIYMYRP_679284.validationCode}}" /> 
+         </div> 
+        </div> 
+       </div> 
+       <div class="col-xs-4" ng-show="vc.viewState.VA_EDADJXOAXQJIRPZ_948284.visible"> 
+        <div class="form-group" id="VA_EDADJXOAXQJIRPZ_948284_DIV"> 
+         <label for="VA_EDADJXOAXQJIRPZ_948284" title="{{vc.viewState.VA_EDADJXOAXQJIRPZ_948284.label|translate:vc.viewState.VA_EDADJXOAXQJIRPZ_948284.labelArgs}}" ng-show="vc.viewState.VA_EDADJXOAXQJIRPZ_948284.visible" class="control-label">{{vc.viewState.VA_EDADJXOAXQJIRPZ_948284.label|translate:vc.viewState.VA_EDADJXOAXQJIRPZ_948284.labelArgs}}</label> 
+         <div class="cb-control"> 
+          <input id="VA_EDADJXOAXQJIRPZ_948284" name="Estudiante_edad" kendo-numeric-text-box k-spinners="false" k-step="0" datatypes-limit="N" k-decimals="vc.viewState.VA_EDADJXOAXQJIRPZ_948284.decimals" k-ng-delay="vc.afterInitData" k-format="vc.viewState.VA_EDADJXOAXQJIRPZ_948284.format" k-ng-model="vc.model.Estudiante.edad" ng-model="vc.tmpModel.Estudiante.edad" ng-disabled="vc.viewState.VA_EDADJXOAXQJIRPZ_948284.disabled || vc.viewState.VA_EDADJXOAXQJIRPZ_948284.disabledingroup" ng-show="vc.viewState.VA_EDADJXOAXQJIRPZ_948284.visible" ng-readonly="vc.viewState.VA_EDADJXOAXQJIRPZ_948284.readonly" ng-class="vc.viewState.VA_EDADJXOAXQJIRPZ_948284.style" data-cobis-group="Group,G_ESTUDIATNS_700284,0" ng-model-onblur data-validation-code="{{vc.viewState.VA_EDADJXOAXQJIRPZ_948284.validationCode}}" /> 
+         </div> 
+        </div> 
+       </div> 
+       <div class="col-xs-4" ng-show="vc.viewState.VA_SEXOHPBYZZNSDFP_488284.visible"> 
+        <div class="form-group" id="VA_SEXOHPBYZZNSDFP_488284_DIV"> 
+         <label for="VA_SEXOHPBYZZNSDFP_488284" title="{{vc.viewState.VA_SEXOHPBYZZNSDFP_488284.label|translate:vc.viewState.VA_SEXOHPBYZZNSDFP_488284.labelArgs}}" ng-show="vc.viewState.VA_SEXOHPBYZZNSDFP_488284.visible" class="control-label">{{vc.viewState.VA_SEXOHPBYZZNSDFP_488284.label|translate:vc.viewState.VA_SEXOHPBYZZNSDFP_488284.labelArgs}}</label> 
+         <div class="cb-control"> 
+          <select id="VA_SEXOHPBYZZNSDFP_488284" kendo-ext-combo-box="comboBox.VA_SEXOHPBYZZNSDFP_488284" k-index="0" k-auto-bind="true" name="Estudiante_sexo" k-ng-model="vc.model.Estudiante.sexo" data-value-primitive="true" ng-disabled="vc.viewState.VA_SEXOHPBYZZNSDFP_488284.disabled || vc.viewState.VA_SEXOHPBYZZNSDFP_488284.disabledingroup" ng-show="vc.viewState.VA_SEXOHPBYZZNSDFP_488284.visible" ng-readonly="vc.viewState.VA_SEXOHPBYZZNSDFP_488284.readonly" ng-class="vc.viewState.VA_SEXOHPBYZZNSDFP_488284.style" k-data-source="vc.catalogs.VA_SEXOHPBYZZNSDFP_488284" k-no-data-template="''" k-ng-delay="vc.afterInitData" k-data-text-field="'value'" k-data-value-field="'code'" k-template="vc.viewState.VA_SEXOHPBYZZNSDFP_488284.template" data-cobis-group="Group,G_ESTUDIATNS_700284,0" data-validation-code="{{vc.viewState.VA_SEXOHPBYZZNSDFP_488284.validationCode}}"></select> 
+         </div> 
+        </div> 
+       </div> 
+       <div class="col-xs-4" ng-show="vc.viewState.VA_VABUTTONTYMSTWE_972284.visible"> 
+        <div class="form-group"> 
+         <label class="control-label">&nbsp;</label> 
+         <div class="cb-control"> 
+          <button id="VA_VABUTTONTYMSTWE_972284" class="btn btn-default btn-block" ng-click="vc.executeCommand('VA_VABUTTONTYMSTWE_972284','VA_VABUTTONTYMSTWE_972284',validator,false, false,'', false)" ng-disabled="vc.viewState.VA_VABUTTONTYMSTWE_972284.disabled || vc.viewState.VA_VABUTTONTYMSTWE_972284.disabledingroup" ng-show="vc.viewState.VA_VABUTTONTYMSTWE_972284.visible" ng-class="vc.viewState.VA_VABUTTONTYMSTWE_972284.style"> {{vc.viewState.VA_VABUTTONTYMSTWE_972284.label|translate}} </button> 
+         </div> 
+        </div> 
+       </div> 
+      </div> 
+     </div> 
+    </div> 
+   </div> 
+  </div> 
+  <!-- Fin item VW_ESTUDIANEE_284--> 
+  <div class="cb-view-loading cb-view-loading-preload"> 
+   <div class="cb-view-loading-icon"></div> 
+  </div> 
+  <div class="cb-navbar cb-navbar-bottom" ng-if="vc.childVc && vc.autoSyncNavigation"> 
+   <nav ng-class="vc.getCssClass('',['navbar', 'navbar-default'] ,{'navbar-fixed-bottom': (!vc.isModal(this) && !vc.isDetailGrid(this))})"> 
+    <button id="T_GRAWCJFYKXDTH_245_ACCEPT" class="btn btn-primary navbar-btn" ng-click="vc.accept(validator, $event, false, 'VC_ESTUDIANZE_388245')" ng-disabled="vc.viewState.T_GRAWCJFYKXDTH_245_ACCEPT.disabled || vc.viewState.T_GRAWCJFYKXDTH_245_ACCEPT.disabledingroup" ng-show="vc.viewState.T_GRAWCJFYKXDTH_245_ACCEPT.visible" ng-class="vc.viewState.T_GRAWCJFYKXDTH_245_ACCEPT.style">{{'DSGNR.SYS_DSGNR_LBLACEPT0_00007'|translate}}</button> 
+    <button id="T_GRAWCJFYKXDTH_245_CANCEL" class="btn btn-default navbar-btn" ng-click="vc.cancel(validator, $event)" ng-disabled="vc.viewState.T_GRAWCJFYKXDTH_245_CANCEL.disabled || vc.viewState.T_GRAWCJFYKXDTH_245_CANCEL.disabledingroup" ng-show="vc.viewState.T_GRAWCJFYKXDTH_245_CANCEL.visible" ng-class="vc.viewState.T_GRAWCJFYKXDTH_245_CANCEL.style">{{'DSGNR.SYS_DSGNR_LBLCANCEL_00006'|translate}}</button> 
+   </nav> 
+  </div>
+ </body>
+</html>
